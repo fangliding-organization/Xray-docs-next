@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-49079172","path":"/ru/document/level-2/","title":"Продвинутая документация","lang":"ru-RU","frontmatter":{},"headers":[],"git":{"updatedTime":1720942820000,"contributors":[{"name":"Nikita Korotaev","email":"iamkorotaev228@icloud.com","commits":1}]},"filePathRelative":"ru/document/level-2/README.md"}');export{e as data};

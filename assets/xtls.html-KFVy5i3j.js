@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-630c687e","path":"/ru/config/features/xtls.html","title":"Глубокое погружение в XTLS","lang":"ru-RU","frontmatter":{},"headers":[],"git":{"updatedTime":1720950162000,"contributors":[{"name":"Nikita Korotaev","email":"iamkorotaev228@icloud.com","commits":1}]},"filePathRelative":"ru/config/features/xtls.md"}');export{t as data};

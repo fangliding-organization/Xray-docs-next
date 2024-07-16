@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-490791ee","path":"/ru/document/level-0/","title":"Простые разговоры о сложном","lang":"ru-RU","frontmatter":{},"headers":[],"git":{"updatedTime":1720941252000,"contributors":[{"name":"Nikita Korotaev","email":"iamkorotaev228@icloud.com","commits":1}]},"filePathRelative":"ru/document/level-0/README.md"}');export{e as data};

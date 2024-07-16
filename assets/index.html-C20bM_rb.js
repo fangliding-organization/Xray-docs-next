@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-490791b0","path":"/ru/document/level-1/","title":"Советы для начинающих","lang":"ru-RU","frontmatter":{},"headers":[],"git":{"updatedTime":1720941279000,"contributors":[{"name":"Nikita Korotaev","email":"iamkorotaev228@icloud.com","commits":1}]},"filePathRelative":"ru/document/level-1/README.md"}');export{e as data};
